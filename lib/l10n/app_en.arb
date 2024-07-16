@@ -1,0 +1,17 @@
+{
+    "titleApp": "Story App",
+    "titleLogin": "Please login to continue Story App",
+    "loginBtn": "Login",
+    "registerBtn": "Register",
+    "nameInput": "Input name",
+    "emailInput": "Input email",
+    "passwordInput": "Input password",
+    "titleRegister": "Please register first to used Story App",
+    "emailWarning": "Please input email with the correct format!",
+    "accountAsked": "Don't have an account? ",
+    "regisNow": "Register now",
+    "descriptionTitle": "Description",
+    "descriptionText": "Input description photo",
+    "uploadBtn": "Upload Story",
+    "titleLocation": "Story location:"
+}

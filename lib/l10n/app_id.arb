@@ -1,0 +1,20 @@
+{
+    "titleApp": "Story App",
+    "@titleApp": {
+    "description": "Aplikasi berbagi cerita"
+    },
+    "titleLogin": "Login untuk melanjutkan ke Story App",
+    "loginBtn": "Masuk",
+    "registerBtn": "Daftar",
+    "nameInput": "Masukkan nama",
+    "emailInput": "Masukkan email",
+    "passwordInput": "Masukkan password",
+    "titleRegister": "Daftar untuk menggunakan aplikasi Story App",
+    "emailWarning": "Masukkan email dengan format yang benar!",
+    "accountAsked": "Belum memiliki akun? ",
+    "regisNow": "Daftar sekarang",
+    "descriptionTitle": "Deskripsi",
+    "descriptionText": "Masukkan deskripsi foto",
+    "uploadBtn": "Unggah Story",
+    "titleLocation": "Lokasi story:"
+}
